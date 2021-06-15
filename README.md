@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @SonikBoom737
+- 👀 I’m interested in Coding and programming
+- 🌱 I’m currently learning coding and how to make a website
+- 💞️ I’m looking to collaborate on nothing at the moment
+- 📫 How to reach me. You can reach me on discord with the same username I have on Github
+
+<!---
+SonikBoom737/SonikBoom737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
