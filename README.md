@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SonikBoom737
 - 👀 I’m interested in Coding and programming
-- 🌱 I’m currently learning coding and how to make a website
+- 🌱 I’m currently learning nothing at the moment as I'm new on github and need some time before I start learning something
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me. You can reach me on discord with the same username I have on Github
 
