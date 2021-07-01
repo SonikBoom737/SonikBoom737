@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and programming
 - 🌱 I’m currently learning nothing at the moment as I'm new on github and need some time before I start learning something
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me. You can reach me on discord with the same username I have on Github
+- 📫 How to reach me. You can't contact me ouside Github right now 
 
 <!---
 SonikBoom737/SonikBoom737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
